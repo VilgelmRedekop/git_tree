@@ -1,2 +1,5 @@
 def func():
+  """
+  AAA
+  """
   pass
