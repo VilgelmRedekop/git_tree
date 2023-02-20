@@ -1,2 +1,5 @@
 def func():
+  """
+  BBB
+  """
   pass
