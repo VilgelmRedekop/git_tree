@@ -1,5 +1,5 @@
 def func():
   """
-  aaa
+  BBB
   """
   pass
