@@ -1,6 +1,6 @@
 def func():
   """
-  BBB
+  aaa
   :return:
   """
   pass
